@@ -1,0 +1,11 @@
+Nachricht,Kategorie,Priorität,KI-Antwort
+Ich kann mich nicht mehr in das System einloggen.,Login,hoch,"Bitte überprüfen Sie, ob Sie den Benutzernamen und das aktuelle Passwort korrekt eingegeben haben. Falls das Problem weiterhin besteht, setzen wir Ihr Passwort gerne zurück."
+Der Drucker auf Station 2 reagiert nicht mehr.,Drucker,mittel,"Bitte stellen Sie sicher, dass der Drucker eingeschaltet und mit dem Netzwerk verbunden ist. Wir schicken einen Techniker vorbei, um das Gerät zu überprüfen."
+Mein Bildschirm bleibt nach dem Hochfahren schwarz.,Hardware,hoch,"Bitte überprüfen Sie die Kabelverbindung zum Monitor. Falls keine Anzeige erfolgt, werden wir ein Ersatzgerät bereitstellen oder einen Techniker vorbeischicken."
+Die Internetverbindung ist extrem langsam seit heute Morgen.,Netzwerk,mittel,"Wir prüfen aktuell die Netzwerkauslastung. Bitte teilen Sie uns mit, ob mehrere Benutzer betroffen sind oder ob es sich um einen Einzelplatz handelt."
+Ich brauche dringend Zugriff auf das Patientenverwaltungssystem.,Benutzerrechte / Softwarezugriff,hoch,Wir kümmern uns um die Freischaltung Ihres Zugangs. Bitte geben Sie uns Ihren Benutzernamen und die Abteilung an.
+Das Passwort meines Kontos wurde gesperrt.,Login,mittel,Ihr Konto wurde nach mehreren Fehlversuchen gesperrt. Wir setzen das Passwort zurück und senden Ihnen ein neues temporäres Passwort.
+Ich kann keine E-Mails mehr versenden oder empfangen.,E-Mail / Kommunikation,hoch,"Wir prüfen derzeit den Mailserver. Bitte starten Sie Outlook neu und informieren Sie uns, ob eine Fehlermeldung angezeigt wird."
+Mein PC macht seit dem letzten Update komische Geräusche.,Hardware / Update,mittel,"Bitte starten Sie das Gerät neu. Falls das Geräusch bleibt, prüfen wir das Gerät auf mögliche Lüfterprobleme oder fehlerhafte Komponenten."
+Wir können keine Verbindung zum Server aufbauen.,Netzwerk / Server,hoch,Es scheint eine Störung bei der Serververbindung zu geben. Wir leiten dies sofort an die Systemadministration weiter.
+Ich benötige einen neuen Benutzerzugang für einen Kollegen.,Benutzerverwaltung,niedrig,"Bitte senden Sie uns den vollständigen Namen, die Abteilung und den gewünschten Zugriff. Wir richten den Benutzer innerhalb eines Arbeitstages ein."
